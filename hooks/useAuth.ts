@@ -3,7 +3,7 @@ import { useState, useEffect, useCallback } from 'react';
 import type { User } from '../types';
 
 // IMPORTANT: Replace this with your actual Google Apps Script URL from the deployment.
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyyuxI7Xsr5QILcYk4rhy7wIZXURX-2rcCY7vt0TMU0wUnqzv8ktonX3xaHm1dITBhQ/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbylspdyHN4lkA6Tug6PhcICnd8_vgXkWAZhujHhTzma1G16TuqJqe_AZdIR0wd4FCXk/exec';
 const SESSION_STORAGE_KEY = 'stock-app-user';
 
 async function apiCall(action: string, payload?: object) {
