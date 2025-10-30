@@ -1,0 +1,22 @@
+{
+  "short_name": "Stok Selis",
+  "name": "Stok Selis",
+  "description": "Aplikasi manajemen stok Stok Selis untuk melacak persediaan barang. Didesain untuk peran Owner dan Staf Gudang.",
+  "icons": [
+    {
+      "src": "https://makassarwebsite.com/wp-content/uploads/2025/10/android-launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://makassarwebsite.com/wp-content/uploads/2025/10/android-launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}

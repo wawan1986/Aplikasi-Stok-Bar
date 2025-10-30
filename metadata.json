@@ -1,0 +1,5 @@
+{
+  "name": "Stok Selis",
+  "description": "Aplikasi manajemen stok untuk melacak persediaan barang. Didesain untuk peran Owner dan Staf Gudang.",
+  "requestFramePermissions": []
+}
