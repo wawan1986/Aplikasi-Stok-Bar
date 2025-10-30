@@ -4,7 +4,7 @@ import type { StockItem, StockType } from '../types';
 import { Unit } from '../types';
 
 // IMPORTANT: Replace this with your actual Google Apps Script URL from the deployment.
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwOaJHLdBRCjKZEqvvzfmDkIND0tE5--kgvr1y98ldJKLQ3Xl3QQoBkL_gcZ3zEOjoKKA/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyyuxI7Xsr5QILcYk4rhy7wIZXURX-2rcCY7vt0TMU0wUnqzv8ktonX3xaHm1dITBhQ/exec';
 
 async function apiCall(action: string, payload?: object) {
   const response = await fetch(SCRIPT_URL, {
