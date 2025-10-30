@@ -24,7 +24,7 @@ const Login: React.FC<LoginProps> = ({ onLogin, error, loading }) => {
         <div className="flex flex-col items-center mb-8">
             <img src="https://makassarwebsite.com/wp-content/uploads/2025/10/Icon-De-Ori.webp" alt="Stok Selis Logo" className="w-16 h-16" />
             <h1 className="text-3xl font-bold text-white tracking-tight mt-4">
-                Stok Selis
+                Stok Bar
             </h1>
             <p className="text-gray-400 mt-1">Silakan login untuk melanjutkan</p>
         </div>
