@@ -1,6 +1,6 @@
 // Ganti dengan ID Spreadsheet Anda. Anda bisa mendapatkannya dari URL spreadsheet.
 // Contoh: https://docs.google.com/spreadsheets/d/THIS_IS_THE_ID/edit
-const SPREADSHEET_ID = "1ivo8HzaS_6p2O3ft9TPNCVJLlDpHj22DvxDePXUPbEE";
+const SPREADSHEET_ID = "1BowBvDPsgFdqeE5QOb9wcggrgDslP-MGOUt5su1-cnQ";
 
 // --- SHEET ACCESSOR FUNCTIONS (Lazy Loading) ---
 function getSheet(name) {
