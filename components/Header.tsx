@@ -14,7 +14,7 @@ const Header: React.FC<HeaderProps> = ({ user, onLogout }) => {
         <div className="flex items-center gap-3">
           <img src="https://makassarwebsite.com/wp-content/uploads/2025/10/Icon-De-Ori.webp" alt="Stok Selis Logo" className="w-8 h-8" />
           <h1 className="text-xl md:text-2xl font-bold text-white tracking-tight">
-            Stok Selis
+            Stok Bar
           </h1>
         </div>
         <div className="flex items-center gap-4">
